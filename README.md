@@ -1,7 +1,7 @@
 # Data Science Boothcamp 10
 My data science and analytic projects
 
-# My personal Projects
+## My personal Projects
 1. SQL supermarket analysis
 2. SQL churn analysis
 3. R programming
