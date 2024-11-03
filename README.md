@@ -12,4 +12,4 @@ My data science and analytic projects
 reach out to me at laddawankni@gmail.com
 
 ## Image
-![DUNEt]([https://wallpapercat.com/w/full/4/a/9/32324-2000x1125-desktop-hd-dune-2021-wallpaper-image.jpg]
+![DUNEt](https://wallpapercat.com/w/full/4/a/9/32324-2000x1125-desktop-hd-dune-2021-wallpaper-image.jpg)
